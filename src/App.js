@@ -35,7 +35,8 @@ function Result() {
     </div>
   );
 }
-
+ывы;
+фпшргфпр;
 function Game() {
   return (
     <>

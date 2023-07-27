@@ -1,4 +1,4 @@
-import './index.scss';
+import "./index.scss";
 
 function App() {
   return (
@@ -12,5 +12,7 @@ function App() {
     </div>
   );
 }
-
+evbjbh;
+ss;
+ss;
 export default App;

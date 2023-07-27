@@ -35,7 +35,7 @@ function Result() {
     </div>
   );
 }
-ohigshogb;
+
 function Game() {
   return (
     <>
